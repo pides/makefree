@@ -1,0 +1,1 @@
+打开Makefile 右键>Make>选择make项 
